@@ -1,0 +1,19 @@
+.checkout {
+    display: flex;
+    padding: 20px;
+    /* flex-direction: column; */
+    height: max-content;
+    background-color: white;
+}
+
+.checkout_left {
+    /* background-color: white; */
+    width: 80%;
+    /* display: flex; */
+}
+
+.checkout_title {
+    border-bottom: 1px solid lightgrey;
+}
+
+.checkout_right {}
